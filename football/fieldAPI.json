@@ -1,5 +1,5 @@
 [ {
-  "Address" : "2-я Вольская улица, дом 16",
+  "address" : "2-я Вольская улица, дом 16",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 101.0,
@@ -8,7 +8,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Некрасовка",
-  "Email" : "s4@mossport.ru",
+  "email" : "s4@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -21,16 +21,16 @@
   "HelpPhone" : "(495) 706-75-49",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Комплекс спортивных сооружений «Спортивная школа № 4» Москомспорта»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Спортивная школа № 4» Москомспорта»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "60c2dddb-58e5-479c-9aa7-39157aedebba"
   } ],
   "Seats" : 936,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "www.s4mossport.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "www.s4mossport.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "10:00-23:00"
@@ -57,9 +57,9 @@
     "coordinates" : [ 37.92356903393341, 55.684805269665766 ],
     "type" : "Point"
   },
-  "global_id" : 406642064
+  "globalId" : 406642064
 }, {
-  "Address" : "улица Лазо, дом 9",
+  "address" : "улица Лазо, дом 9",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -80,16 +80,16 @@
   "HelpPhone" : "(495) 309-20-64",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Локомотив 2-Перово»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Локомотив 2-Перово»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "e97b38f1-ffbf-488e-86bf-72f8152eaeb4"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "school.fclm.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "school.fclm.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -116,9 +116,9 @@
     "coordinates" : [ 37.77430517756733, 55.74092005709351 ],
     "type" : "Point"
   },
-  "global_id" : 407115707
+  "globalId" : 407115707
 }, {
-  "Address" : "посёлок Птичное, Центральная улица, владение 107, строение 1",
+  "address" : "посёлок Птичное, Центральная улица, владение 107, строение 1",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 107.0,
@@ -127,7 +127,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "поселение Первомайское",
-  "Email" : "info@pervomayskoe.msk.ru",
+  "email" : "info@pervomayskoe.msk.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -140,16 +140,16 @@
   "HelpPhone" : "(903) 211-61-13",
   "Lighting" : "освещение светодиодными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион (менее 1500 мест) «Надежда»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Надежда»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "90809c4e-db0d-4d61-8b32-0c3c9b9a250f"
   } ],
   "Seats" : 250,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "pervomayskoe.msk.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "pervomayskoe.msk.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -176,9 +176,9 @@
     "coordinates" : [ 37.22165622876975, 55.52054836347414 ],
     "type" : "Point"
   },
-  "global_id" : 407116609
+  "globalId" : 407116609
 }, {
-  "Address" : "Озёрная аллея, дом 3",
+  "address" : "Озёрная аллея, дом 3",
   "AdmArea" : "Зеленоградский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 102.0,
@@ -186,7 +186,7 @@
     "Width" : 68.0
   } ],
   "District" : "район Старое Крюково",
-  "Email" : "s112@mossport.ru",
+  "email" : "s112@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -199,16 +199,16 @@
   "HelpPhone" : "(903) 130-05-70",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Ангстрем»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Ангстрем»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "ade9e1a6-3a02-43bc-b88c-92c00d5996c8"
   } ],
   "Seats" : 3070,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "www.sputnik112.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "www.sputnik112.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -235,9 +235,9 @@
     "coordinates" : [ 37.224671560752675, 55.983185164909656 ],
     "type" : "Point"
   },
-  "global_id" : 407119603
+  "globalId" : 407119603
 }, {
-  "Address" : "Западная улица, дом 16Б",
+  "address" : "Западная улица, дом 16Б",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -246,7 +246,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Восточный",
-  "Email" : "cop@mossport.ru",
+  "email" : "cop@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -259,16 +259,16 @@
   "HelpPhone" : "(499) 780-15-82",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Комплекс спортивных сооружений Государственного бюджетного учреждения города Москвы «Центр олимпийской подготовки» Департамента спорта города Москвы",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений Государственного бюджетного учреждения города Москвы «Центр олимпийской подготовки» Департамента спорта города Москвы",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "4c798d9e-afca-4a1a-8784-c8606ed9c2be"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "moscsp.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "moscsp.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-21:00"
@@ -295,9 +295,9 @@
     "coordinates" : [ 37.87867817073084, 55.815395244680296 ],
     "type" : "Point"
   },
-  "global_id" : 407121924
+  "globalId" : 407121924
 }, {
-  "Address" : "Сельскохозяйственная улица, дом 26, строение 6",
+  "address" : "Сельскохозяйственная улица, дом 26, строение 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -306,7 +306,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Ростокино",
-  "Email" : "info@iskra-sport.ru",
+  "email" : "info@iskra-sport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -319,16 +319,16 @@
   "HelpPhone" : "(499) 181-36-14",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивный комплекс «Искра-2»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивный комплекс «Искра-2»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "05f820fd-195e-4082-a440-fe93a6a64de2"
   } ],
   "Seats" : 1500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "iskra-sport.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "iskra-sport.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-23:00"
@@ -355,9 +355,9 @@
     "coordinates" : [ 37.63932767848667, 55.83796568497233 ],
     "type" : "Point"
   },
-  "global_id" : 407146807
+  "globalId" : 407146807
 }, {
-  "Address" : "Варшавское шоссе, дом 14, строение 3",
+  "address" : "Варшавское шоссе, дом 14, строение 3",
   "AdmArea" : "Южный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 104.0,
@@ -366,7 +366,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Донской район",
-  "Email" : "swimtrud@yandex.ru",
+  "email" : "swimtrud@yandex.ru",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -379,16 +379,16 @@
   "HelpPhone" : "(495) 958-14-70",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Комплекс спортивных сооружений «Учебно-спортивный центр «Труд»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Учебно-спортивный центр «Труд»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "ba5f30bd-6651-4553-afb6-2ee3e5b27126"
   } ],
   "Seats" : 2800,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.swimtrud.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.swimtrud.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -415,9 +415,9 @@
     "coordinates" : [ 37.61820076455685, 55.695528102789886 ],
     "type" : "Point"
   },
-  "global_id" : 407146868
+  "globalId" : 407146868
 }, {
-  "Address" : "улица Юности, дом 2, строение 1",
+  "address" : "улица Юности, дом 2, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -426,7 +426,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Вешняки",
-  "Email" : "ooptvao@gmail.com",
+  "email" : "ooptvao@gmail.com",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -439,16 +439,16 @@
   "HelpPhone" : "(495) 367-36-81",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Парк, озелененная городская территория «Лесопарк «Кусково»»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Парк, озелененная городская территория «Лесопарк «Кусково»»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "1de9c91d-a783-4f72-a6c6-a26bcb154dba"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.mospriroda.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.mospriroda.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:55"
@@ -475,9 +475,9 @@
     "coordinates" : [ 37.78091007338013, 55.73180879285607 ],
     "type" : "Point"
   },
-  "global_id" : 407151736
+  "globalId" : 407151736
 }, {
-  "Address" : "2-й квартал Капотня, дом 2А, строение 1",
+  "address" : "2-й квартал Капотня, дом 2А, строение 1",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -486,7 +486,7 @@
   } ],
   "DisabilityFriendly" : "приспособлен для всех групп инвалидов",
   "District" : "район Капотня",
-  "Email" : "smena-63@mail.ru",
+  "email" : "smena-63@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -499,16 +499,16 @@
   "HelpPhone" : "(495) 355-22-57",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Комплекс спортивных сооружений «Смена»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Смена»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "4ee6b7b5-1383-4569-a3c2-42d601256654"
   } ],
   "Seats" : 1200,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "fs-smena63.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "fs-smena63.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -535,9 +535,9 @@
     "coordinates" : [ 37.79544147549237, 55.64092738942658 ],
     "type" : "Point"
   },
-  "global_id" : 408343148
+  "globalId" : 408343148
 }, {
-  "Address" : "посёлок Шишкин Лес, дом 18",
+  "address" : "посёлок Шишкин Лес, дом 18",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -557,16 +557,16 @@
   "HelpPhone" : "(495) 850-59-62",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Футбольное поле муниципальное бюджетное учреждение спортивный клуб «Медведь»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Футбольное поле муниципальное бюджетное учреждение спортивный клуб «Медведь»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "05798fcb-f206-4273-ba29-aa0802531255"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.admsp.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.admsp.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -593,9 +593,9 @@
     "coordinates" : [ 37.18878034137027, 55.412143373838276 ],
     "type" : "Point"
   },
-  "global_id" : 409984458
+  "globalId" : 409984458
 }, {
-  "Address" : "посёлок Фабрики имени 1 Мая, дом 9",
+  "address" : "посёлок Фабрики имени 1 Мая, дом 9",
   "AdmArea" : "Новомосковский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -604,7 +604,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "поселение Рязановское",
-  "Email" : "mail@ryazanovskoe.ru",
+  "email" : "mail@ryazanovskoe.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -617,16 +617,16 @@
   "HelpPhone" : "(495) 867-85-18",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Футбольное поле",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Футбольное поле",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "a04aeb89-b3a4-4e38-a6c5-3293275f5f9b"
   } ],
   "Seats" : 300,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "ryazanovskoe.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "ryazanovskoe.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -653,9 +653,9 @@
     "coordinates" : [ 37.50214245138168, 55.485746834505434 ],
     "type" : "Point"
   },
-  "global_id" : 409994304
+  "globalId" : 409994304
 }, {
-  "Address" : "город Зеленоград, корпус 222А",
+  "address" : "город Зеленоград, корпус 222А",
   "AdmArea" : "Зеленоградский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 60.0,
@@ -664,7 +664,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Матушкино",
-  "Email" : "shov@s618.ru",
+  "email" : "shov@s618.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -677,16 +677,16 @@
   "HelpPhone" : "(499) 734-16-00",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "площадка для игры в футбол",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "492b3b98-b513-444e-ad6c-3d497bd7d5cb"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "sch618zg.mskobr.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "sch618zg.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-21:00"
@@ -713,9 +713,9 @@
     "coordinates" : [ 37.199315095214, 56.002859352501 ],
     "type" : "Point"
   },
-  "global_id" : 410025512
+  "globalId" : 410025512
 }, {
-  "Address" : "улица Перерва, дом 36",
+  "address" : "улица Перерва, дом 36",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -724,7 +724,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Марьино",
-  "Email" : "2087@edu.mos.ru",
+  "email" : "2087@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -737,16 +737,16 @@
   "HelpPhone" : "(499) 356-38-11",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "ba367e28-f890-4393-b97a-9d428c906b10"
   } ],
   "Seats" : 400,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch2087uv.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch2087uv.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -773,9 +773,9 @@
     "coordinates" : [ 37.737000410526, 55.651163023778 ],
     "type" : "Point"
   },
-  "global_id" : 410031888
+  "globalId" : 410031888
 }, {
-  "Address" : "улица Космонавта Волкова, дом 31, строение 3",
+  "address" : "улица Космонавта Волкова, дом 31, строение 3",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -796,16 +796,16 @@
   "HelpPhone" : "(495) 645-85-36",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион (менее 1500 мест) «Красный Балтиец»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Красный Балтиец»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "d09cecc7-9ce9-4599-a88e-0a36362affef"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "www.rugbymoscow.ru/stadions/view/id/7",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "www.rugbymoscow.ru/stadions/view/id/7",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -832,9 +832,9 @@
     "coordinates" : [ 37.52790459646836, 55.81729098599193 ],
     "type" : "Point"
   },
-  "global_id" : 410794616
+  "globalId" : 410794616
 }, {
-  "Address" : "3-я Подрезковская улица, дом 14, строение 1",
+  "address" : "3-я Подрезковская улица, дом 14, строение 1",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 95.0,
@@ -843,7 +843,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Молжаниновский район",
-  "Email" : "Sao-molg@mos.ru",
+  "email" : "Sao-molg@mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -856,16 +856,16 @@
   "HelpPhone" : "(499) 500-19-71",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Дворовая территория",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Дворовая территория",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "326749c6-112b-44b3-b51c-1551882fed08"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "molzhaninovskiy.mos.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "molzhaninovskiy.mos.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -892,9 +892,9 @@
     "coordinates" : [ 37.356506615352465, 55.93989496883976 ],
     "type" : "Point"
   },
-  "global_id" : 410804860
+  "globalId" : 410804860
 }, {
-  "Address" : "Лобненская улица, дом 13А",
+  "address" : "Лобненская улица, дом 13А",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -903,7 +903,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Дмитровский район",
-  "Email" : "s70@mossport.ru",
+  "email" : "s70@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -916,16 +916,16 @@
   "HelpPhone" : "(495) 483-35-04",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Молния»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Молния»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "f37bbdcd-e584-4b03-9e03-d039b7545bd0"
   } ],
   "Seats" : 876,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "dush-70.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "dush-70.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -952,9 +952,9 @@
     "coordinates" : [ 37.53447483808905, 55.88812926211779 ],
     "type" : "Point"
   },
-  "global_id" : 410806702
+  "globalId" : 410806702
 }, {
-  "Address" : "Вятская улица, дом 41",
+  "address" : "Вятская улица, дом 41",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -963,7 +963,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Савёловский район",
-  "Email" : "s75@mossport.ru",
+  "email" : "s75@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -976,16 +976,16 @@
   "HelpPhone" : "(495) 685-81-67",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Комплекс спортивных сооружений «Автомобилист»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Автомобилист»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "4bcb4e3e-9deb-4c06-835b-bfaee39ed50d"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "dush75.ru/",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "dush75.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -1012,9 +1012,9 @@
     "coordinates" : [ 37.57691028423874, 55.7991893360715 ],
     "type" : "Point"
   },
-  "global_id" : 410812014
+  "globalId" : 410812014
 }, {
-  "Address" : "улица Маршала Захарова, дом 6, корпус 1",
+  "address" : "улица Маршала Захарова, дом 6, корпус 1",
   "AdmArea" : "Южный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -1023,7 +1023,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Зябликово",
-  "Email" : "info@park-kuzminki.ru",
+  "email" : "info@park-kuzminki.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -1036,16 +1036,16 @@
   "HelpPhone" : "(499) 175-33-69",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное, «Зябликово»",
-  "ObjectName" : "Парк, озелененная городская территория «Борисовские пруды»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Парк, озелененная городская территория «Борисовские пруды»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "6ea3db72-536a-4843-b5a5-9f728a42dbf6"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "www.park-kuzminki.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "www.park-kuzminki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -1072,9 +1072,9 @@
     "coordinates" : [ 37.72936258207814, 55.62896458604701 ],
     "type" : "Point"
   },
-  "global_id" : 410835260
+  "globalId" : 410835260
 }, {
-  "Address" : "Дубравная улица, дом 41, корпус 4",
+  "address" : "Дубравная улица, дом 41, корпус 4",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 95.0,
@@ -1083,7 +1083,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Митино",
-  "Email" : "1900@edu.mos.ru",
+  "email" : "1900@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -1096,16 +1096,16 @@
   "HelpPhone" : "(495) 752-69-98",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "63668be3-0413-4517-98b9-8437ff3c4a0d"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch1900sz.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch1900sz.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -1132,9 +1132,9 @@
     "coordinates" : [ 37.363808453443, 55.841014122535 ],
     "type" : "Point"
   },
-  "global_id" : 410900835
+  "globalId" : 410900835
 }, {
-  "Address" : "Батайский проезд, дом 23",
+  "address" : "Батайский проезд, дом 23",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 99.0,
@@ -1143,7 +1143,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Марьино",
-  "Email" : "maryno@edu.mos.ru",
+  "email" : "maryno@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -1156,16 +1156,16 @@
   "HelpPhone" : "(499) 356-03-11",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "da2f8bd4-919d-4e92-8bfd-82201edb5cc4"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch2110.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch2110.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-21:00"
@@ -1192,9 +1192,9 @@
     "coordinates" : [ 37.71996593121288, 55.64421371008233 ],
     "type" : "Point"
   },
-  "global_id" : 410910275
+  "globalId" : 410910275
 }, {
-  "Address" : "Енисейская улица, дом 32, корпус 3",
+  "address" : "Енисейская улица, дом 32, корпус 3",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 46.0,
@@ -1203,7 +1203,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Бабушкинский район",
-  "Email" : "1095@edu.mos.ru",
+  "email" : "1095@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -1216,16 +1216,16 @@
   "HelpPhone" : "(495) 470-91-55",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "Площадка для игры в футбол",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "7f3ec065-ff55-4e26-aeca-2d919dbd7b0b"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch1095sv.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch1095sv.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "17:00-21:00"
@@ -1252,9 +1252,9 @@
     "coordinates" : [ 37.669708607838, 55.871678968884 ],
     "type" : "Point"
   },
-  "global_id" : 410927997
+  "globalId" : 410927997
 }, {
-  "Address" : "Олонецкий проезд, дом 6",
+  "address" : "Олонецкий проезд, дом 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 60.0,
@@ -1263,7 +1263,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Бабушкинский район",
-  "Email" : "1095@edu.mos.ru",
+  "email" : "1095@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -1276,16 +1276,16 @@
   "HelpPhone" : "(495) 470-91-55",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "Площадка для игры в футбол",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "59739ba2-1d34-4cf7-9ca1-a014a4d9ff0b"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch1095sv.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch1095sv.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "17:00-21:00"
@@ -1312,9 +1312,9 @@
     "coordinates" : [ 37.661719042971, 55.874419425814 ],
     "type" : "Point"
   },
-  "global_id" : 410928250
+  "globalId" : 410928250
 }, {
-  "Address" : "улица Академика Челомея, дом 6А",
+  "address" : "улица Академика Челомея, дом 6А",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -1323,7 +1323,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Обручевский район",
-  "Email" : "1514@edu.mos.ru",
+  "email" : "1514@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -1336,16 +1336,16 @@
   "HelpPhone" : "(495) 936-10-87",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "bafd67d8-a641-43b3-98ff-f91a46d33166"
   } ],
   "Seats" : 70,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "gym1514uz.mskobr.ru/",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "gym1514uz.mskobr.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -1372,9 +1372,9 @@
     "coordinates" : [ 37.531045270079, 55.662991921293 ],
     "type" : "Point"
   },
-  "global_id" : 410967293
+  "globalId" : 410967293
 }, {
-  "Address" : "посёлок ЛМС, микрорайон \"Центральный\", дом 40, строение 1",
+  "address" : "посёлок ЛМС, микрорайон \"Центральный\", дом 40, строение 1",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -1382,7 +1382,7 @@
     "Width" : 70.0
   } ],
   "District" : "поселение Вороновское",
-  "Email" : "skvoronovo@mail.ru",
+  "email" : "skvoronovo@mail.ru",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -1395,16 +1395,16 @@
   "HelpPhone" : "(495) 592-46-78",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Вороново»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Вороново»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "ec4cceea-b834-4729-81df-e60b2a19b4cf"
   } ],
   "Seats" : 120,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.10",
-  "WebSite" : "voronovskoe.ru",
+  "usagePeriodSummer" : "01.04-30.10",
+  "webSite" : "voronovskoe.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -1431,9 +1431,9 @@
     "coordinates" : [ 37.180585997347244, 55.312508968462325 ],
     "type" : "Point"
   },
-  "global_id" : 419017104
+  "globalId" : 419017104
 }, {
-  "Address" : "город Троицк, Октябрьский проспект, дом 14",
+  "address" : "город Троицк, Октябрьский проспект, дом 14",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 102.0,
@@ -1454,16 +1454,16 @@
   "HelpPhone" : "(496) 740-40-98",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное, городской стадион в Троицке",
-  "ObjectName" : "Городской стадион",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Городской стадион",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "b6dd1b17-dc49-4322-a0e3-01719b9b61c8"
   } ],
   "Seats" : 1000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "admtroitsk.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "admtroitsk.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -1490,9 +1490,9 @@
     "coordinates" : [ 37.29869170689943, 55.475332210890656 ],
     "type" : "Point"
   },
-  "global_id" : 419017106
+  "globalId" : 419017106
 }, {
-  "Address" : "город Московский, 1-й микрорайон, дом 38",
+  "address" : "город Московский, 1-й микрорайон, дом 38",
   "AdmArea" : "Новомосковский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -1501,7 +1501,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "поселение Московский",
-  "Email" : "mu_csm@list.ru",
+  "email" : "mu_csm@list.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -1514,16 +1514,16 @@
   "HelpPhone" : "(495) 841-97-75",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Комплекс спортивных сооружений «Центр спорта Московский»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Центр спорта Московский»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "9bbbac23-da86-41b9-9f1f-f6d18badbe2c"
   } ],
   "Seats" : 300,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.10",
-  "WebSite" : "www.newmoscowsport.ru",
+  "usagePeriodSummer" : "01.04-30.10",
+  "webSite" : "www.newmoscowsport.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -1550,9 +1550,9 @@
     "coordinates" : [ 37.35108623672989, 55.596571453426264 ],
     "type" : "Point"
   },
-  "global_id" : 478889433
+  "globalId" : 478889433
 }, {
-  "Address" : "Тенистый проезд, дом 6",
+  "address" : "Тенистый проезд, дом 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -1561,7 +1561,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Свиблово",
-  "Email" : "radugasviblovo@mail.ru",
+  "email" : "radugasviblovo@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -1574,16 +1574,16 @@
   "HelpPhone" : "(499) 181-73-51",
   "Lighting" : "освещение светодиодными лампами",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Стадион «Свиблово»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Свиблово»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "963e6e8a-d1ef-44c9-8805-5617b64beb4b"
   } ],
   "Seats" : 336,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "sviblovo.mos.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "sviblovo.mos.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -1610,9 +1610,9 @@
     "coordinates" : [ 37.63603377280763, 55.860270402517585 ],
     "type" : "Point"
   },
-  "global_id" : 613047608
+  "globalId" : 613047608
 }, {
-  "Address" : "посёлок Ерино, дом 2",
+  "address" : "посёлок Ерино, дом 2",
   "AdmArea" : "Новомосковский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 103.0,
@@ -1621,7 +1621,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "поселение Рязановское",
-  "Email" : "fcpodolie@mail.ru",
+  "email" : "fcpodolie@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -1634,16 +1634,16 @@
   "HelpPhone" : "(495) 867-72-25",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс «Подолье»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс «Подолье»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "31463eac-d945-4720-9d19-da5df1a2b96b"
   } ],
   "Seats" : 1432,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "фкподолье.рф",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "фкподолье.рф",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -1670,9 +1670,9 @@
     "coordinates" : [ 37.52609101031517, 55.448553089424436 ],
     "type" : "Point"
   },
-  "global_id" : 625842153
+  "globalId" : 625842153
 }, {
-  "Address" : "деревня Яковлевское, дом 17",
+  "address" : "деревня Яковлевское, дом 17",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 97.0,
@@ -1681,7 +1681,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "поселение Новофедоровское",
-  "Email" : "gbutinao@mail.ru",
+  "email" : "gbutinao@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -1694,16 +1694,16 @@
   "HelpPhone" : "(495) 536-36-10",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Парк народный «Сосны»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Парк народный «Сосны»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "b631274e-5710-499e-a6d3-ada71c8366cf"
   } ],
   "Seats" : 180,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "bus.gov.ru/pub/home",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "bus.gov.ru/pub/home",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -1730,9 +1730,9 @@
     "coordinates" : [ 36.941067186023915, 55.46863251392046 ],
     "type" : "Point"
   },
-  "global_id" : 626247316
+  "globalId" : 626247316
 }, {
-  "Address" : "Дольская улица, дом 1",
+  "address" : "Дольская улица, дом 1",
   "AdmArea" : "Южный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -1741,7 +1741,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Бирюлёво Восточное",
-  "Email" : "gmz@tsaritsyno.net",
+  "email" : "gmz@tsaritsyno.net",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "нет",
   "HasEatery" : "да",
@@ -1754,16 +1754,16 @@
   "HelpPhone" : "(495) 321-63-66",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Государственный историко-архитектурный, художественный и ландшафтный музей-заповедник «Царицыно»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Государственный историко-архитектурный, художественный и ландшафтный музей-заповедник «Царицыно»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "c2eb70fb-2d7e-4834-946d-f88e3bce1aa5"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.05-30.09",
-  "WebSite" : "www.tsaritsyno-museum.ru",
+  "usagePeriodSummer" : "01.05-30.09",
+  "webSite" : "www.tsaritsyno-museum.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-15:00"
@@ -1790,9 +1790,9 @@
     "coordinates" : [ 37.668484207160226, 55.61081624822315 ],
     "type" : "Point"
   },
-  "global_id" : 626950746
+  "globalId" : 626950746
 }, {
-  "Address" : "улица Академика Варги, дом 32",
+  "address" : "улица Академика Варги, дом 32",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -1801,7 +1801,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Тёплый Стан",
-  "Email" : "1101@edu.mos.ru",
+  "email" : "1101@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -1814,16 +1814,16 @@
   "HelpPhone" : "(495) 339-77-39",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "85300346-7e46-44ef-b91f-b031cd538015"
   } ],
   "Seats" : 450,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "sch1101uz.mskobr.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "sch1101uz.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:30-21:00"
@@ -1850,9 +1850,9 @@
     "coordinates" : [ 37.476982, 55.634299 ],
     "type" : "Point"
   },
-  "global_id" : 637992464
+  "globalId" : 637992464
 }, {
-  "Address" : "улица Грекова, дом 11Б",
+  "address" : "улица Грекова, дом 11Б",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -1861,7 +1861,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Северное Медведково",
-  "Email" : "1506@edu.mos.ru",
+  "email" : "1506@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -1874,16 +1874,16 @@
   "HelpPhone" : "(499) 479-85-89",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "204254bb-f600-46af-a57b-7ab2fe800c53"
   } ],
   "Seats" : 250,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "gym1506.mskobr.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "gym1506.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-21:00"
@@ -1910,9 +1910,9 @@
     "coordinates" : [ 37.65842020237657, 55.889959882892256 ],
     "type" : "Point"
   },
-  "global_id" : 637992471
+  "globalId" : 637992471
 }, {
-  "Address" : "город Московский, 1-й микрорайон, дом 38",
+  "address" : "город Московский, 1-й микрорайон, дом 38",
   "AdmArea" : "Новомосковский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 108.0,
@@ -1921,7 +1921,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "поселение Московский",
-  "Email" : "mu_csm@list.ru",
+  "email" : "mu_csm@list.ru",
   "EquipmentRentalComments" : "коньки ледовые для катания на коньках, прокат, платно, зима ",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
@@ -1935,16 +1935,16 @@
   "HelpPhone" : "(495) 841-97-75",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Комплекс спортивных сооружений «Центр спорта Московский»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Центр спорта Московский»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "1c73fe41-b427-4d52-bd2d-399d313b0546"
   } ],
   "Seats" : 1600,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "www.newmoscowsport.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "www.newmoscowsport.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -1971,9 +1971,9 @@
     "coordinates" : [ 37.34944464576217, 55.597073980475464 ],
     "type" : "Point"
   },
-  "global_id" : 688502334
+  "globalId" : 688502334
 }, {
-  "Address" : "Сельскохозяйственная улица, дом 26, строение 6",
+  "address" : "Сельскохозяйственная улица, дом 26, строение 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -1982,7 +1982,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Ростокино",
-  "Email" : "info@iskra-sport.ru",
+  "email" : "info@iskra-sport.ru",
   "EquipmentRentalComments" : "Прокат коньков при заходе на каток. ",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
@@ -1996,16 +1996,16 @@
   "HelpPhone" : "(499) 181-36-14",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №3",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивный комплекс «Искра-2»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивный комплекс «Искра-2»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "b81199d3-e7af-4d44-b370-ecda2f9a3599"
   } ],
   "Seats" : 300,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "iskra-sport.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "iskra-sport.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-23:00"
@@ -2032,9 +2032,9 @@
     "coordinates" : [ 37.63847676917268, 55.83956334157316 ],
     "type" : "Point"
   },
-  "global_id" : 688502370
+  "globalId" : 688502370
 }, {
-  "Address" : "Сельскохозяйственная улица, дом 26, строение 6",
+  "address" : "Сельскохозяйственная улица, дом 26, строение 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -2042,7 +2042,7 @@
     "Width" : 90.0
   } ],
   "District" : "район Ростокино",
-  "Email" : "info@iskra-sport.ru",
+  "email" : "info@iskra-sport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2055,16 +2055,16 @@
   "HelpPhone" : "(499) 181-36-14",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивный комплекс «Искра-2»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивный комплекс «Искра-2»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "ec31f93f-3873-4f49-a9ac-5332ce20ee6d"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "iskra-sport.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "iskra-sport.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-23:00"
@@ -2091,9 +2091,9 @@
     "coordinates" : [ 37.6420118971579, 55.8386959964782 ],
     "type" : "Point"
   },
-  "global_id" : 688502377
+  "globalId" : 688502377
 }, {
-  "Address" : "Федеративный проспект, дом 29А",
+  "address" : "Федеративный проспект, дом 29А",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -2102,7 +2102,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Новогиреево",
-  "Email" : "1324@edu.mos.ru",
+  "email" : "1324@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2115,16 +2115,16 @@
   "HelpPhone" : "(495) 303-51-30",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "035f7363-347a-4f75-8a9a-cbd671482e83"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch1324.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch1324.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "18:30-21:00"
@@ -2151,9 +2151,9 @@
     "coordinates" : [ 37.821528, 55.754972 ],
     "type" : "Point"
   },
-  "global_id" : 904456266
+  "globalId" : 904456266
 }, {
-  "Address" : "Фестивальная улица, дом 4",
+  "address" : "Фестивальная улица, дом 4",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -2161,7 +2161,7 @@
     "Width" : 72.4
   } ],
   "District" : "район Левобережный",
-  "Email" : "sportsao@mail.ru",
+  "email" : "sportsao@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2174,18 +2174,18 @@
   "HelpPhone" : "(495) 754-98-48",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «ГБУ «ЦФКиС САО г. Москвы» Москомспорта, на ул. Фестивальной»",
-  "Paid" : "платно",
-  "PaidComments" : "Согласно прейскуранту цен.",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «ГБУ «ЦФКиС САО г. Москвы» Москомспорта, на ул. Фестивальной»",
+  "paid" : "платно",
+  "paidComments" : "Согласно прейскуранту цен.",
+  "photoSummer" : [ {
     "Photo" : "8ba27084-5759-47e0-9c58-7fe66898a0e5"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
   "TechServiceComments" : "Согласно прейскуранту цен.",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sportsao.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sportsao.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "10:00-22:00"
@@ -2212,9 +2212,9 @@
     "coordinates" : [ 37.482818112730904, 55.85414974866757 ],
     "type" : "Point"
   },
-  "global_id" : 904458225
+  "globalId" : 904458225
 }, {
-  "Address" : "улица Косыгина, дом 17, строение 1",
+  "address" : "улица Косыгина, дом 17, строение 1",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -2223,7 +2223,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Гагаринский район",
-  "Email" : "SivtsovaIV@edu.mos.ru",
+  "email" : "SivtsovaIV@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2236,16 +2236,16 @@
   "HelpPhone" : "(499) 137-85-30",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Воробьёвы горы»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Воробьёвы горы»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "d14b976b-c8d0-4f77-ad54-dca59d49b23d"
   } ],
   "Seats" : 5000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "vg.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "vg.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -2272,9 +2272,9 @@
     "coordinates" : [ 37.558789167777, 55.703898324045 ],
     "type" : "Point"
   },
-  "global_id" : 904458233
+  "globalId" : 904458233
 }, {
-  "Address" : "Дубнинская улица, дом 23",
+  "address" : "Дубнинская улица, дом 23",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -2283,7 +2283,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Восточное Дегунино",
-  "Email" : "1383@edu.mos.ru",
+  "email" : "1383@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2296,17 +2296,17 @@
   "HelpPhone" : "(499) 481-08-10",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "212ae4a1-5a0d-41c3-8030-577769210fbf"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
   "TechServiceComments" : "актуализация",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "sch1383.mskobr.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "sch1383.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:30-22:00"
@@ -2333,9 +2333,9 @@
     "coordinates" : [ 37.564983447206, 55.862371246595 ],
     "type" : "Point"
   },
-  "global_id" : 904458851
+  "globalId" : 904458851
 }, {
-  "Address" : "Восточная улица, дом 4А",
+  "address" : "Восточная улица, дом 4А",
   "AdmArea" : "Южный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 104.0,
@@ -2343,7 +2343,7 @@
     "Width" : 68.0
   } ],
   "District" : "Даниловский район",
-  "Email" : "sport@strel.ru",
+  "email" : "sport@strel.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2356,16 +2356,16 @@
   "HelpPhone" : "(495) 675-39-07",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное на стадионе имени Эдуарда Стрельцова",
-  "ObjectName" : "Стадион (1500 и более мест) «Спортивный комплекс имени Э.А. Стрельцова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Спортивный комплекс имени Э.А. Стрельцова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "2102abec-05a5-4456-8e49-485b76a17fe3"
   } ],
   "Seats" : 13400,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "strel.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "strel.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -2392,9 +2392,9 @@
     "coordinates" : [ 37.65635607711933, 55.71636547279893 ],
     "type" : "Point"
   },
-  "global_id" : 930084912
+  "globalId" : 930084912
 }, {
-  "Address" : "Восточная улица, дом 4А",
+  "address" : "Восточная улица, дом 4А",
   "AdmArea" : "Южный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -2402,7 +2402,7 @@
     "Width" : 68.0
   } ],
   "District" : "Даниловский район",
-  "Email" : "sport@strel.ru",
+  "email" : "sport@strel.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2415,16 +2415,16 @@
   "HelpPhone" : "(495) 675-39-07",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Стадион (1500 и более мест) «Спортивный комплекс имени Э.А. Стрельцова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Спортивный комплекс имени Э.А. Стрельцова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "2b15e382-0835-4c7f-95c3-638726efbb65"
   } ],
   "Seats" : 1023,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "strel.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "strel.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -2451,9 +2451,9 @@
     "coordinates" : [ 37.65750601325244, 55.71797768744168 ],
     "type" : "Point"
   },
-  "global_id" : 930084913
+  "globalId" : 930084913
 }, {
-  "Address" : "3-я Гражданская улица, дом 47",
+  "address" : "3-я Гражданская улица, дом 47",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 104.0,
@@ -2462,7 +2462,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Богородское",
-  "Email" : "spartakovets2013@yandex.ru",
+  "email" : "spartakovets2013@yandex.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2475,17 +2475,17 @@
   "HelpPhone" : "(495) 963-31-63",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное, Большое поле",
-  "ObjectName" : "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
-  "Paid" : "платно",
-  "PaidComments" : "аренда 17000 руб в час",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
+  "paid" : "платно",
+  "paidComments" : "аренда 17000 руб в час",
+  "photoSummer" : [ {
     "Photo" : "4b5bc377-d3bd-413c-8ba9-528c20ca0b56"
   } ],
   "Seats" : 5100,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "stadion-spartakovets.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "stadion-spartakovets.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -2512,9 +2512,9 @@
     "coordinates" : [ 37.713227812126114, 55.80955905171052 ],
     "type" : "Point"
   },
-  "global_id" : 930088281
+  "globalId" : 930088281
 }, {
-  "Address" : "3-я Гражданская улица, дом 47",
+  "address" : "3-я Гражданская улица, дом 47",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -2523,7 +2523,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Богородское",
-  "Email" : "spartakovets2013@yandex.ru",
+  "email" : "spartakovets2013@yandex.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2536,17 +2536,17 @@
   "HelpPhone" : "(495) 963-31-63",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное, Среднее поле",
-  "ObjectName" : "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
-  "Paid" : "платно",
-  "PaidComments" : "аренда 16000 руб в час",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
+  "paid" : "платно",
+  "paidComments" : "аренда 16000 руб в час",
+  "photoSummer" : [ {
     "Photo" : "092ac519-319c-4cd8-b111-959217cc81e4"
   } ],
   "Seats" : 1500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "stadion-spartakovets.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "stadion-spartakovets.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -2573,9 +2573,9 @@
     "coordinates" : [ 37.71050671107985, 55.81097117753414 ],
     "type" : "Point"
   },
-  "global_id" : 930088282
+  "globalId" : 930088282
 }, {
-  "Address" : "Дружинниковская улица, дом 18, строение 1",
+  "address" : "Дружинниковская улица, дом 18, строение 1",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -2584,7 +2584,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Пресненский район",
-  "Email" : "hello@citysport.pro",
+  "email" : "hello@citysport.pro",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2597,16 +2597,16 @@
   "HelpPhone" : "(499) 653-93-66",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "футбольное поле",
-  "ObjectName" : "Стадион «Красная Пресня»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Красная Пресня»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "df5a89b5-af92-4f0c-9934-d4e0e2f6e702"
   } ],
   "Seats" : 200,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "citysport.pro/krasnaya_presnya",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "citysport.pro/krasnaya_presnya",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "10:00-22:00"
@@ -2633,9 +2633,9 @@
     "coordinates" : [ 37.57704516700221, 55.75727175940157 ],
     "type" : "Point"
   },
-  "global_id" : 930089011
+  "globalId" : 930089011
 }, {
-  "Address" : "3-я Гражданская улица, дом 47",
+  "address" : "3-я Гражданская улица, дом 47",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -2644,7 +2644,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Богородское",
-  "Email" : "spartakovets2013@yandex.ru",
+  "email" : "spartakovets2013@yandex.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2657,17 +2657,17 @@
   "HelpPhone" : "(495) 963-31-63",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное, Малое поле",
-  "ObjectName" : "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
-  "Paid" : "платно",
-  "PaidComments" : "аренда 10000 руб в час",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Спартаковец имени Н.П. Старостина»»",
+  "paid" : "платно",
+  "paidComments" : "аренда 10000 руб в час",
+  "photoSummer" : [ {
     "Photo" : "eb3ca2af-fb7c-4d06-90d4-f1ff65682472"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "stadion-spartakovets.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "stadion-spartakovets.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -2694,9 +2694,9 @@
     "coordinates" : [ 37.71430203683554, 55.80890834069478 ],
     "type" : "Point"
   },
-  "global_id" : 930089766
+  "globalId" : 930089766
 }, {
-  "Address" : "Лодочная улица, дом 33, строение 1",
+  "address" : "Лодочная улица, дом 33, строение 1",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 104.0,
@@ -2704,7 +2704,7 @@
     "Width" : 66.0
   } ],
   "District" : "район Южное Тушино",
-  "Email" : "gbucfkisszao@gmail.ru",
+  "email" : "gbucfkisszao@gmail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2717,16 +2717,16 @@
   "HelpPhone" : "(499) 493-01-80",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион (менее 1500 мест) «Тушино»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Тушино»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "f750794f-32e5-4de6-9182-0b0592fb8e38"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "www.sport-szao.ru/",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "www.sport-szao.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -2753,9 +2753,9 @@
     "coordinates" : [ 37.46587697863203, 55.84054063522802 ],
     "type" : "Point"
   },
-  "global_id" : 930090176
+  "globalId" : 930090176
 }, {
-  "Address" : "3-я Песчаная улица, дом 2",
+  "address" : "3-я Песчаная улица, дом 2",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -2764,7 +2764,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Хорошёвский район",
-  "Email" : "brd@cska.ru",
+  "email" : "brd@cska.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2777,16 +2777,16 @@
   "HelpPhone" : "(499) 157-75-91",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивная база ЦСКА»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивная база ЦСКА»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "5ca8ed76-0199-4311-aa35-8e682129c790"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "cska.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "cska.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:55"
@@ -2813,9 +2813,9 @@
     "coordinates" : [ 37.521725662694934, 55.792338549000185 ],
     "type" : "Point"
   },
-  "global_id" : 930201552
+  "globalId" : 930201552
 }, {
-  "Address" : "Тушинская улица, дом 16",
+  "address" : "Тушинская улица, дом 16",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -2824,7 +2824,7 @@
   } ],
   "DisabilityFriendly" : "приспособлен для лиц с нарушением ОДА",
   "District" : "район Покровское-Стрешнево",
-  "Email" : "gbucfkisszao@gmail.com",
+  "email" : "gbucfkisszao@gmail.com",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2837,16 +2837,16 @@
   "HelpPhone" : "(499) 493-01-80",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Красный Октябрь»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Красный Октябрь»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "4a6567c4-f76b-48f3-bec4-f7d319bab78f"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.sport-szao.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.sport-szao.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-23:00"
@@ -2873,9 +2873,9 @@
     "coordinates" : [ 37.44279440923871, 55.82829101065487 ],
     "type" : "Point"
   },
-  "global_id" : 930201689
+  "globalId" : 930201689
 }, {
-  "Address" : "улица Маршала Катукова, дом 26",
+  "address" : "улица Маршала Катукова, дом 26",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -2884,7 +2884,7 @@
   } ],
   "DisabilityFriendly" : "приспособлен для лиц с нарушением ОДА",
   "District" : "район Строгино",
-  "Email" : "s94@mossport.ru",
+  "email" : "s94@mossport.ru",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -2897,17 +2897,17 @@
   "HelpPhone" : "(495) 942-88-47",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное, «Янтарь»",
-  "ObjectName" : "Стадион (1500 и более мест) «Стадион «Янтарь»",
-  "Paid" : "платно",
-  "PaidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Стадион «Янтарь»",
+  "paid" : "платно",
+  "paidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
+  "photoSummer" : [ {
     "Photo" : "aacbc681-f995-4fc1-972a-e4c7b692e074"
   } ],
   "Seats" : 2000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "www.fcstrogino.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "www.fcstrogino.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -2934,9 +2934,9 @@
     "coordinates" : [ 37.41509123008312, 55.80113156145216 ],
     "type" : "Point"
   },
-  "global_id" : 930201699
+  "globalId" : 930201699
 }, {
-  "Address" : "3-я Песчаная улица, дом 2",
+  "address" : "3-я Песчаная улица, дом 2",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 96.0,
@@ -2945,7 +2945,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Хорошёвский район",
-  "Email" : "brd@cska.ru",
+  "email" : "brd@cska.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -2958,16 +2958,16 @@
   "HelpPhone" : "(499) 157-75-91",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивная база ЦСКА»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Учебно-спортивная база ЦСКА»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "937f79ff-8f6e-430f-801f-1054e3406bc1"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "cska.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "cska.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:55"
@@ -2994,9 +2994,9 @@
     "coordinates" : [ 37.52024910663105, 55.7920910689717 ],
     "type" : "Point"
   },
-  "global_id" : 930202158
+  "globalId" : 930202158
 }, {
-  "Address" : "Берёзовая аллея, дом 15Б",
+  "address" : "Берёзовая аллея, дом 15Б",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 98.0,
@@ -3005,7 +3005,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Отрадное",
-  "Email" : "950@edu.mos.ru",
+  "email" : "950@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -3018,16 +3018,16 @@
   "HelpPhone" : "(499) 204-34-46",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "468eb83d-86f7-455b-95e3-ad2bcc4adb27"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "sch950sv.mskobr.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "sch950sv.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:30-22:00"
@@ -3054,9 +3054,9 @@
     "coordinates" : [ 37.614247156962, 55.851433210648 ],
     "type" : "Point"
   },
-  "global_id" : 930202250
+  "globalId" : 930202250
 }, {
-  "Address" : "улица Толбухина, дом 10, корпус 4",
+  "address" : "улица Толбухина, дом 10, корпус 4",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -3065,7 +3065,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Можайский район",
-  "Email" : "ovchinnikov@oaovils.ru",
+  "email" : "ovchinnikov@oaovils.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -3078,16 +3078,16 @@
   "HelpPhone" : "(495) 448-32-61",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Универсальный дворец спорта «Крылья советов»»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Универсальный дворец спорта «Крылья советов»»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "8273a2b2-b63f-4c7d-b51a-70d54438f6f4"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "ksmoscow.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "ksmoscow.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -3114,9 +3114,9 @@
     "coordinates" : [ 37.40549055718864, 55.72141304343794 ],
     "type" : "Point"
   },
-  "global_id" : 930202273
+  "globalId" : 930202273
 }, {
-  "Address" : "Малый Олений переулок, дом 23, строение 1А",
+  "address" : "Малый Олений переулок, дом 23, строение 1А",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -3125,7 +3125,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Сокольники",
-  "Email" : "events@stadionspartak.ru",
+  "email" : "events@stadionspartak.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -3138,16 +3138,16 @@
   "HelpPhone" : "(499) 268-88-77",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №5",
-  "ObjectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "ffe7b75c-f718-4da2-ad44-bd13380e907f"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "30.04-01.10",
-  "WebSite" : "spartak.com/main/business/2629",
+  "usagePeriodSummer" : "30.04-01.10",
+  "webSite" : "spartak.com/main/business/2629",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -3174,9 +3174,9 @@
     "coordinates" : [ 37.697364252441496, 55.80414140896321 ],
     "type" : "Point"
   },
-  "global_id" : 930205291
+  "globalId" : 930205291
 }, {
-  "Address" : "Малый Олений переулок, дом 23, строение 1А",
+  "address" : "Малый Олений переулок, дом 23, строение 1А",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -3185,7 +3185,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Сокольники",
-  "Email" : "events@stadionspartak.ru",
+  "email" : "events@stadionspartak.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -3198,16 +3198,16 @@
   "HelpPhone" : "(499) 268-88-77",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №4",
-  "ObjectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "7c689c83-bea8-4c64-9c72-a41f9c7fd205"
   } ],
   "Seats" : 5000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "30.04-01.10",
-  "WebSite" : "spartak.com/main/business/2629",
+  "usagePeriodSummer" : "30.04-01.10",
+  "webSite" : "spartak.com/main/business/2629",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -3234,9 +3234,9 @@
     "coordinates" : [ 37.69871008431939, 55.80484013227283 ],
     "type" : "Point"
   },
-  "global_id" : 930205296
+  "globalId" : 930205296
 }, {
-  "Address" : "Малый Олений переулок, дом 23, строение 1А",
+  "address" : "Малый Олений переулок, дом 23, строение 1А",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 98.0,
@@ -3245,7 +3245,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Сокольники",
-  "Email" : "events@stadionspartak.ru",
+  "email" : "events@stadionspartak.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -3258,16 +3258,16 @@
   "HelpPhone" : "(499) 268-88-77",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №3",
-  "ObjectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "398a0685-9fbe-4fc1-b551-74dfb7dca1b1"
   } ],
   "Seats" : 200,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "30.04-01.10",
-  "WebSite" : "spartak.com/main/business/2629",
+  "usagePeriodSummer" : "30.04-01.10",
+  "webSite" : "spartak.com/main/business/2629",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -3294,9 +3294,9 @@
     "coordinates" : [ 37.700338588271585, 55.8054943705803 ],
     "type" : "Point"
   },
-  "global_id" : 930205301
+  "globalId" : 930205301
 }, {
-  "Address" : "Малый Олений переулок, дом 23, строение 1А",
+  "address" : "Малый Олений переулок, дом 23, строение 1А",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -3305,7 +3305,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Сокольники",
-  "Email" : "events@stadionspartak.ru",
+  "email" : "events@stadionspartak.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -3318,16 +3318,16 @@
   "HelpPhone" : "(499) 268-88-77",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №6",
-  "ObjectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "a91ece67-5adc-43a0-82fa-de05e9bbdfaf"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "30.04-01.10",
-  "WebSite" : "spartak.com/main/business/2629",
+  "usagePeriodSummer" : "30.04-01.10",
+  "webSite" : "spartak.com/main/business/2629",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -3354,9 +3354,9 @@
     "coordinates" : [ 37.698372763031095, 55.80384652401035 ],
     "type" : "Point"
   },
-  "global_id" : 930205771
+  "globalId" : 930205771
 }, {
-  "Address" : "Малый Олений переулок, дом 23, строение 1А",
+  "address" : "Малый Олений переулок, дом 23, строение 1А",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -3365,7 +3365,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Сокольники",
-  "Email" : "events@stadionspartak.ru",
+  "email" : "events@stadionspartak.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -3378,16 +3378,16 @@
   "HelpPhone" : "(499) 268-88-77",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Академия «Спартак» по футболу имени Ф. Черенкова»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "a4815a2f-0497-4541-8cc6-46d2c6873c48"
   } ],
   "Seats" : 1000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "spartak.com/main/business/2629",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "spartak.com/main/business/2629",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -3414,9 +3414,9 @@
     "coordinates" : [ 37.69777444011864, 55.80691099916868 ],
     "type" : "Point"
   },
-  "global_id" : 930205772
+  "globalId" : 930205772
 }, {
-  "Address" : "улица Кулакова, дом 17, корпус 2",
+  "address" : "улица Кулакова, дом 17, корпус 2",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -3425,7 +3425,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Строгино",
-  "Email" : "86@edu.mos.ru",
+  "email" : "86@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -3438,16 +3438,16 @@
   "HelpPhone" : "(495) 758-40-65",
   "Lighting" : "освещение светодиодными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "0ac96b67-7040-489c-ae4e-48a7052fa807"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "sch86sz.mskobr.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "sch86sz.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-21:00"
@@ -3474,9 +3474,9 @@
     "coordinates" : [ 37.398188372831, 55.808149202162 ],
     "type" : "Point"
   },
-  "global_id" : 930205835
+  "globalId" : 930205835
 }, {
-  "Address" : "3-я Песчаная улица, дом 2, строение 4",
+  "address" : "3-я Песчаная улица, дом 2, строение 4",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -3485,7 +3485,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Хорошёвский район",
-  "Email" : "cska@pfc-cska.com",
+  "email" : "cska@pfc-cska.com",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -3498,16 +3498,16 @@
   "HelpPhone" : "(495) 787-08-80",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион (1500 и более мест) «Арена ЦСКА»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Арена ЦСКА»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "29c36a06-8b1b-44ce-b897-ac75eb890ae3"
   } ],
   "Seats" : 30000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "stadium.pfc-cska.com",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "stadium.pfc-cska.com",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -3534,9 +3534,9 @@
     "coordinates" : [ 37.5161025290832, 55.791563378694214 ],
     "type" : "Point"
   },
-  "global_id" : 930205912
+  "globalId" : 930205912
 }, {
-  "Address" : "Новорязанская улица, дом 29, строение 1",
+  "address" : "Новорязанская улица, дом 29, строение 1",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -3544,7 +3544,7 @@
     "Width" : 72.0
   } ],
   "District" : "Басманный район",
-  "Email" : "s27@mossport.ru",
+  "email" : "s27@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -3557,16 +3557,16 @@
   "HelpPhone" : "(499) 264-41-74",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Арена-Сокол» ГБУ «СШОР № 27 «Сокол» Москомспорта»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Арена-Сокол» ГБУ «СШОР № 27 «Сокол» Москомспорта»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "bc0d39f5-398a-42d9-9ac6-8652a87d2676"
   } ],
   "Seats" : 99,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "www.27sokol.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "www.27sokol.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-21:00"
@@ -3593,9 +3593,9 @@
     "coordinates" : [ 37.66809577644322, 55.772692453001426 ],
     "type" : "Point"
   },
-  "global_id" : 930206004
+  "globalId" : 930206004
 }, {
-  "Address" : "Тенистый проезд, дом 6",
+  "address" : "Тенистый проезд, дом 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -3603,7 +3603,7 @@
     "Width" : 45.0
   } ],
   "District" : "район Свиблово",
-  "Email" : "radugasviblovo@mail.ru",
+  "email" : "radugasviblovo@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -3616,16 +3616,16 @@
   "HelpPhone" : "(499) 181-73-51",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Стадион «Свиблово»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Свиблово»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "8cc7f742-1275-4698-844d-a9eb38cdcf47"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "sviblovo.mos.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "sviblovo.mos.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -3652,9 +3652,9 @@
     "coordinates" : [ 37.63800787864302, 55.860952986591975 ],
     "type" : "Point"
   },
-  "global_id" : 930206030
+  "globalId" : 930206030
 }, {
-  "Address" : "Судостроительная улица, дом 43, корпус 2",
+  "address" : "Судостроительная улица, дом 43, корпус 2",
   "AdmArea" : "Южный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -3663,7 +3663,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Нагатинский Затон",
-  "Email" : "1770@edu.mos.ru",
+  "email" : "1770@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -3676,16 +3676,16 @@
   "HelpPhone" : "(499) 615-89-88",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "559c956f-1340-488d-9048-5592abae416b"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "sch1770.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "sch1770.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -3712,9 +3712,9 @@
     "coordinates" : [ 37.688496932439, 55.686979062759 ],
     "type" : "Point"
   },
-  "global_id" : 930211301
+  "globalId" : 930211301
 }, {
-  "Address" : "Советская улица, дом 80, строение 1",
+  "address" : "Советская улица, дом 80, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -3734,16 +3734,16 @@
   "HelpPhone" : "(499) 780-36-08",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-оздоровительное предприятие «Измайлово»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительное предприятие «Измайлово»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "a3efa751-0ca8-4f1e-9192-c061d8eb68cd"
   } ],
   "Seats" : 8500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.06-31.08",
-  "WebSite" : "izmaylowo.mos.ru/",
+  "usagePeriodSummer" : "01.06-31.08",
+  "webSite" : "izmaylowo.mos.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -3770,9 +3770,9 @@
     "coordinates" : [ 37.75386723742086, 55.797147560118546 ],
     "type" : "Point"
   },
-  "global_id" : 930413016
+  "globalId" : 930413016
 }, {
-  "Address" : "Измайловское шоссе, домовладение 73Б",
+  "address" : "Измайловское шоссе, домовладение 73Б",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 102.0,
@@ -3792,16 +3792,16 @@
   "HelpPhone" : "(926) 305-14-06",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное, «Ракета»",
-  "ObjectName" : "Комплекс спортивных сооружений «Футбольное поле «Ракета»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Футбольное поле «Ракета»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "a5b696a9-5be1-4d0d-9102-2a108a01d2e1"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "dixxodrom.ru/kontakty/",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "dixxodrom.ru/kontakty/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "10:00-21:00"
@@ -3828,9 +3828,9 @@
     "coordinates" : [ 37.76075798580958, 55.78901946882988 ],
     "type" : "Point"
   },
-  "global_id" : 930543683
+  "globalId" : 930543683
 }, {
-  "Address" : "деревня Давыдово, дом 136",
+  "address" : "деревня Давыдово, дом 136",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -3839,7 +3839,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "поселение Кленовское",
-  "Email" : "klenovskoe.tinao@mail.ru",
+  "email" : "klenovskoe.tinao@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -3852,16 +3852,16 @@
   "HelpPhone" : "(495) 865-63-74",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Муниципальное учреждение «Спортивный клуб «Русь»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Муниципальное учреждение «Спортивный клуб «Русь»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "95ee82fc-6733-455f-ae5e-d6b1dba9f860"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "klenovskoe.org/",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "klenovskoe.org/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -3888,9 +3888,9 @@
     "coordinates" : [ 37.33565845956758, 55.319701530296 ],
     "type" : "Point"
   },
-  "global_id" : 930543813
+  "globalId" : 930543813
 }, {
-  "Address" : "Большая Черкизовская улица, владение 125, строение 1",
+  "address" : "Большая Черкизовская улица, владение 125, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 119.0,
@@ -3911,16 +3911,16 @@
   "HelpPhone" : "(499) 161-01-74",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №3, «РЖД Арена»",
-  "ObjectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "4c38cbee-5d57-47f4-8eb8-47515316f7ff"
   } ],
   "Seats" : 27320,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "school.fclm.ru/media/photo",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "school.fclm.ru/media/photo",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -3947,9 +3947,9 @@
     "coordinates" : [ 37.741234986287274, 55.8033806917419 ],
     "type" : "Point"
   },
-  "global_id" : 930707413
+  "globalId" : 930707413
 }, {
-  "Address" : "Большая Черкизовская улица, владение 125, строение 1",
+  "address" : "Большая Черкизовская улица, владение 125, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 119.0,
@@ -3969,16 +3969,16 @@
   "HelpPhone" : "(499) 161-01-74",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №1, «Натуральное тренировочное поле»",
-  "ObjectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "7f933f1c-8fe3-44ae-956e-138c5bf139a7"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "school.fclm.ru/media/photo",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "school.fclm.ru/media/photo",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4005,9 +4005,9 @@
     "coordinates" : [ 37.73827787097694, 55.8051640151527 ],
     "type" : "Point"
   },
-  "global_id" : 930707414
+  "globalId" : 930707414
 }, {
-  "Address" : "Большая Черкизовская улица, владение 125, строение 1",
+  "address" : "Большая Черкизовская улица, владение 125, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 107.0,
@@ -4028,16 +4028,16 @@
   "HelpPhone" : "(499) 161-01-74",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "41f6a8c6-f8ff-4410-874d-23d7778f1430"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "school.fclm.ru/media/photo",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "school.fclm.ru/media/photo",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -4064,9 +4064,9 @@
     "coordinates" : [ 37.742871166877975, 55.804772002515975 ],
     "type" : "Point"
   },
-  "global_id" : 930707415
+  "globalId" : 930707415
 }, {
-  "Address" : "улица Василия Ботылёва, дом 41",
+  "address" : "улица Василия Ботылёва, дом 41",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -4075,7 +4075,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Кунцево",
-  "Email" : "s94@mossport.ru",
+  "email" : "s94@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -4088,17 +4088,17 @@
   "HelpPhone" : "(499) 727-40-05",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное № 1",
-  "ObjectName" : "Комплекс спортивных сооружений «Рублево»",
-  "Paid" : "платно",
-  "PaidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Рублево»",
+  "paid" : "платно",
+  "paidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
+  "photoSummer" : [ {
     "Photo" : "92990406-337a-4ea8-85c5-89f2da1f9aa6"
   } ],
   "Seats" : 650,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "fcstrogino.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "fcstrogino.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4125,9 +4125,9 @@
     "coordinates" : [ 37.35254106204167, 55.78863568653688 ],
     "type" : "Point"
   },
-  "global_id" : 930707427
+  "globalId" : 930707427
 }, {
-  "Address" : "улица Василия Ботылёва, дом 41",
+  "address" : "улица Василия Ботылёва, дом 41",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -4136,7 +4136,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Кунцево",
-  "Email" : "s94@mossport.ru",
+  "email" : "s94@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -4149,17 +4149,17 @@
   "HelpPhone" : "(499) 727-40-05",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №3",
-  "ObjectName" : "Комплекс спортивных сооружений «Рублево»",
-  "Paid" : "платно",
-  "PaidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Рублево»",
+  "paid" : "платно",
+  "paidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
+  "photoSummer" : [ {
     "Photo" : "74fe0784-6202-4f45-aeb4-6baeb9824555"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "fcstrogino.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "fcstrogino.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4186,9 +4186,9 @@
     "coordinates" : [ 37.354236218139285, 55.78863346733939 ],
     "type" : "Point"
   },
-  "global_id" : 930707428
+  "globalId" : 930707428
 }, {
-  "Address" : "улица Василия Ботылёва, дом 41",
+  "address" : "улица Василия Ботылёва, дом 41",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -4197,7 +4197,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Кунцево",
-  "Email" : "s94@mossport.ru",
+  "email" : "s94@mossport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -4210,17 +4210,17 @@
   "HelpPhone" : "(499) 727-40-05",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Комплекс спортивных сооружений «Рублево»",
-  "Paid" : "платно",
-  "PaidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Рублево»",
+  "paid" : "платно",
+  "paidComments" : "в соответствие с Прейскурантом цен на оказание услуг",
+  "photoSummer" : [ {
     "Photo" : "9b2a143f-da71-41c5-91e4-49686918db4b"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "fcstrogino.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "fcstrogino.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4247,9 +4247,9 @@
     "coordinates" : [ 37.35259202401292, 55.789657381831404 ],
     "type" : "Point"
   },
-  "global_id" : 930707429
+  "globalId" : 930707429
 }, {
-  "Address" : "улица Мичуринский Проспект, Олимпийская Деревня, дом 2",
+  "address" : "улица Мичуринский Проспект, Олимпийская Деревня, дом 2",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -4258,7 +4258,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Тропарёво-Никулино",
-  "Email" : "bobrik@sport-olimp80.ru",
+  "email" : "bobrik@sport-olimp80.ru",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -4271,16 +4271,16 @@
   "HelpPhone" : "(495) 437-19-66",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "футбольное поле №1",
-  "ObjectName" : "Комплекс спортивных сооружений «Олимпийская деревня-80»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Олимпийская деревня-80»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "d698a257-86a1-4c71-8318-eddb74d09806"
   } ],
   "Seats" : 350,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "sport-olimp80.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "sport-olimp80.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -4307,9 +4307,9 @@
     "coordinates" : [ 37.47271918027046, 55.67751401490192 ],
     "type" : "Point"
   },
-  "global_id" : 930707455
+  "globalId" : 930707455
 }, {
-  "Address" : "Волгоградский проспект, дом 46/15, строение 16",
+  "address" : "Волгоградский проспект, дом 46/15, строение 16",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 97.0,
@@ -4318,7 +4318,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Текстильщики",
-  "Email" : "moskvich@sport-moskvich.ru",
+  "email" : "moskvich@sport-moskvich.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -4331,17 +4331,17 @@
   "HelpPhone" : "(499) 178-71-26",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Спортивный зал «Спортивная школа олимпийского резерва Москвич»",
-  "Paid" : "платно",
-  "PaidComments" : "В соответствии с прейскурантом",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный зал «Спортивная школа олимпийского резерва Москвич»",
+  "paid" : "платно",
+  "paidComments" : "В соответствии с прейскурантом",
+  "photoSummer" : [ {
     "Photo" : "d80e5d37-7740-4fa3-9e3e-40eba12b97e9"
   } ],
   "Seats" : 286,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.sport-moskvich.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.sport-moskvich.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-21:00"
@@ -4368,9 +4368,9 @@
     "coordinates" : [ 37.73829825224158, 55.707336352223436 ],
     "type" : "Point"
   },
-  "global_id" : 930749148
+  "globalId" : 930749148
 }, {
-  "Address" : "Елизаветинский переулок, дом 3А, строение 1",
+  "address" : "Елизаветинский переулок, дом 3А, строение 1",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 96.0,
@@ -4391,16 +4391,16 @@
   "HelpPhone" : "(499) 941-13-46",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Стадион «Сокол»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Сокол»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "cc77ca02-a360-4d2e-a23f-b173f8321d7b"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "www.stadion-sokol.com",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "www.stadion-sokol.com",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4427,9 +4427,9 @@
     "coordinates" : [ 37.674454169887625, 55.7606509924976 ],
     "type" : "Point"
   },
-  "global_id" : 1016275491
+  "globalId" : 1016275491
 }, {
-  "Address" : "улица Лужники, дом 24, строение 8Е",
+  "address" : "улица Лужники, дом 24, строение 8Е",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -4450,16 +4450,16 @@
   "HelpPhone" : "(495) 780-08-08",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "футбольное поле №2",
-  "ObjectName" : "Северное спортивное ядро «Лужники»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Северное спортивное ядро «Лужники»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "bc680487-3a7f-4212-a20a-f5fd872b4613"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "luzhniki.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "luzhniki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -4486,9 +4486,9 @@
     "coordinates" : [ 37.55162711853887, 55.71950369275257 ],
     "type" : "Point"
   },
-  "global_id" : 1047335255
+  "globalId" : 1047335255
 }, {
-  "Address" : "проспект Вернадского, владение 76Б, строение 1",
+  "address" : "проспект Вернадского, владение 76Б, строение 1",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -4508,16 +4508,16 @@
   "HelpPhone" : "(495) 434-00-89",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион Московского государственного института международных отношений",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион Московского государственного института международных отношений",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "3d854053-d430-47b2-9e42-484bc9bdc2f7"
   } ],
   "Seats" : 1500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "mgimo.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "mgimo.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4544,9 +4544,9 @@
     "coordinates" : [ 37.482982385892015, 55.674050366287396 ],
     "type" : "Point"
   },
-  "global_id" : 1047335312
+  "globalId" : 1047335312
 }, {
-  "Address" : "Волоколамское шоссе, дом 88, корпус 9, строение 1",
+  "address" : "Волоколамское шоссе, дом 88, корпус 9, строение 1",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -4567,17 +4567,17 @@
   "HelpPhone" : "(495) 491-91-47",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "большое поле футбольное №1",
-  "ObjectName" : "Стадион «Луч»",
-  "Paid" : "платно",
-  "PaidComments" : "Прейскурант цен указан на сайте",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Луч»",
+  "paid" : "платно",
+  "paidComments" : "Прейскурант цен указан на сайте",
+  "photoSummer" : [ {
     "Photo" : "f83dafb8-8d8e-4023-b881-e65d2d331c0d"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "stadion-luch.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "stadion-luch.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4604,9 +4604,9 @@
     "coordinates" : [ 37.44667914652943, 55.82248489712601 ],
     "type" : "Point"
   },
-  "global_id" : 1047335511
+  "globalId" : 1047335511
 }, {
-  "Address" : "2-й Краснокурсантский проезд, дом 12, строение 7",
+  "address" : "2-й Краснокурсантский проезд, дом 12, строение 7",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 108.0,
@@ -4627,17 +4627,17 @@
   "HelpPhone" : "(495) 363-73-41",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комбинат Московского энергетического института (МЭИ). Стадион «Энергия»",
-  "Paid" : "платно",
-  "PaidComments" : "5000 р.час.",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комбинат Московского энергетического института (МЭИ). Стадион «Энергия»",
+  "paid" : "платно",
+  "paidComments" : "5000 р.час.",
+  "photoSummer" : [ {
     "Photo" : "268f5018-3d4d-459c-9bf5-c180194a9c8b"
   } ],
   "Seats" : 300,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "stadionenergiya.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "stadionenergiya.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:00-23:00"
@@ -4664,9 +4664,9 @@
     "coordinates" : [ 37.701704595836425, 55.76292724007056 ],
     "type" : "Point"
   },
-  "global_id" : 1047335513
+  "globalId" : 1047335513
 }, {
-  "Address" : "Лодочная улица, дом 15, строение 1",
+  "address" : "Лодочная улица, дом 15, строение 1",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 108.0,
@@ -4675,7 +4675,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Южное Тушино",
-  "Email" : "salut@geraklionsport.ru",
+  "email" : "salut@geraklionsport.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -4688,16 +4688,16 @@
   "HelpPhone" : "(495) 497-12-51",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион (менее 1500 мест) «Салют Гераклион»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Салют Гераклион»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "594976cf-2b0d-4be4-8c60-8ad21624ae4a"
   } ],
   "Seats" : 1000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "startfootball.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "startfootball.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4724,9 +4724,9 @@
     "coordinates" : [ 37.45960004545301, 55.83825575177348 ],
     "type" : "Point"
   },
-  "global_id" : 1047335572
+  "globalId" : 1047335572
 }, {
-  "Address" : "Проезд N 5253, дом 2, строение 2",
+  "address" : "Проезд N 5253, дом 2, строение 2",
   "AdmArea" : "Зеленоградский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -4747,16 +4747,16 @@
   "HelpPhone" : "(495) 538-97-01",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «Элион»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Элион»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "3973da01-ed44-47b8-b3e0-ec2be52da258"
   } ],
   "Seats" : 850,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "w.caddress.ru/com/zao-elion-sport-4899007",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "w.caddress.ru/com/zao-elion-sport-4899007",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4783,9 +4783,9 @@
     "coordinates" : [ 37.22681663734624, 56.00356160401216 ],
     "type" : "Point"
   },
-  "global_id" : 1047335819
+  "globalId" : 1047335819
 }, {
-  "Address" : "Волоколамское шоссе, дом 88, корпус 9, строение 1",
+  "address" : "Волоколамское шоссе, дом 88, корпус 9, строение 1",
   "AdmArea" : "Северо-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -4806,17 +4806,17 @@
   "HelpPhone" : "(495) 491-91-47",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "среднее поле футбольное №2",
-  "ObjectName" : "Стадион «Луч»",
-  "Paid" : "платно",
-  "PaidComments" : "Прейскурант цен указан на сайте",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «Луч»",
+  "paid" : "платно",
+  "paidComments" : "Прейскурант цен указан на сайте",
+  "photoSummer" : [ {
     "Photo" : "f0e7f9e9-3205-4a66-b448-30105909a3cb"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "stadion-luch.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "stadion-luch.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4843,9 +4843,9 @@
     "coordinates" : [ 37.444729180575465, 55.82254676749845 ],
     "type" : "Point"
   },
-  "global_id" : 1047335955
+  "globalId" : 1047335955
 }, {
-  "Address" : "улица Миклухо-Маклая, дом 41",
+  "address" : "улица Миклухо-Маклая, дом 41",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -4865,16 +4865,16 @@
   "HelpPhone" : "(495) 434-71-82",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс высшего учебного заведения «Российский университет дружбы народов»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс высшего учебного заведения «Российский университет дружбы народов»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "1a265ebc-e893-46ae-991d-acdd2d5c32db"
   } ],
   "Seats" : 3000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.rudn.ru/?pagec=4843",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.rudn.ru/?pagec=4843",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4901,9 +4901,9 @@
     "coordinates" : [ 37.49443554053261, 55.65240054251449 ],
     "type" : "Point"
   },
-  "global_id" : 1047336628
+  "globalId" : 1047336628
 }, {
-  "Address" : "улица Лужники, дом 24, строение 3",
+  "address" : "улица Лужники, дом 24, строение 3",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -4924,16 +4924,16 @@
   "HelpPhone" : "(495) 780-08-08",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное №7",
-  "ObjectName" : "Малая спортивная арена «Лужники»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Малая спортивная арена «Лужники»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "556e765a-6998-4923-bdee-a24b8c397cee"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "luzhniki.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "luzhniki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -4960,9 +4960,9 @@
     "coordinates" : [ 37.54760122667076, 55.71689106463337 ],
     "type" : "Point"
   },
-  "global_id" : 1047337028
+  "globalId" : 1047337028
 }, {
-  "Address" : "улица Лужники, дом 24, строение 3",
+  "address" : "улица Лужники, дом 24, строение 3",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 107.0,
@@ -4983,16 +4983,16 @@
   "HelpPhone" : "(495) 780-08-08",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное №9",
-  "ObjectName" : "Малая спортивная арена «Лужники»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Малая спортивная арена «Лужники»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "3bec9489-36b2-4211-be6f-c762a5eb691d"
   } ],
   "Seats" : 100,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "luzhniki.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "luzhniki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -5019,9 +5019,9 @@
     "coordinates" : [ 37.54709697137578, 55.717771875216954 ],
     "type" : "Point"
   },
-  "global_id" : 1047337144
+  "globalId" : 1047337144
 }, {
-  "Address" : "улица Маршала Тимошенко, дом 10",
+  "address" : "улица Маршала Тимошенко, дом 10",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 110.0,
@@ -5042,16 +5042,16 @@
   "HelpPhone" : "(499) 149-30-13",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-спортивный комплекс «Медик»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-спортивный комплекс «Медик»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "00b66cb8-f1ec-47d8-86bc-ff2d8ff716d7"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "www.cchp.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "www.cchp.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-17:00"
@@ -5078,9 +5078,9 @@
     "coordinates" : [ 37.39352992874103, 55.741193671683 ],
     "type" : "Point"
   },
-  "global_id" : 1047339673
+  "globalId" : 1047339673
 }, {
-  "Address" : "проспект Мира, дом 119, строение 6",
+  "address" : "проспект Мира, дом 119, строение 6",
   "AdmArea" : "Северо-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -5089,7 +5089,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "Останкинский район",
-  "Email" : "info@vvcentre.ru",
+  "email" : "info@vvcentre.ru",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -5102,16 +5102,16 @@
   "HelpPhone" : "(495) 748-35-00",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Парк, озелененная городская территория «Выставка достижений народного хозяйства (ВДНХ)»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Парк, озелененная городская территория «Выставка достижений народного хозяйства (ВДНХ)»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "ba0a6c07-f2c0-46dc-911b-00dcab366092"
   } ],
   "Seats" : 95,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "vdnh.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "vdnh.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -5138,9 +5138,9 @@
     "coordinates" : [ 37.60687333692509, 55.82596969890114 ],
     "type" : "Point"
   },
-  "global_id" : 1047340058
+  "globalId" : 1047340058
 }, {
-  "Address" : "проспект Будённого, дом 17А, строение 3",
+  "address" : "проспект Будённого, дом 17А, строение 3",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 102.0,
@@ -5161,16 +5161,16 @@
   "HelpPhone" : "(499) 785-81-24",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Стадион (1500 и более мест) «Крылья Советов»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Крылья Советов»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "77621248-550b-473f-9ab7-88fbc4f6ab3a"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "ks-fitness.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "ks-fitness.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -5197,9 +5197,9 @@
     "coordinates" : [ 37.73085516791778, 55.77600188926952 ],
     "type" : "Point"
   },
-  "global_id" : 1047340103
+  "globalId" : 1047340103
 }, {
-  "Address" : "улица Лужники, дом 24, строение 1",
+  "address" : "улица Лужники, дом 24, строение 1",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -5220,16 +5220,16 @@
   "HelpPhone" : "(495) 780-08-08",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Большая спортивная арена «Лужники»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Большая спортивная арена «Лужники»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "8a8706b0-7835-4566-a146-c71755dab89f"
   } ],
   "Seats" : 81000,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "luzhniki.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "luzhniki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -5256,9 +5256,9 @@
     "coordinates" : [ 37.55382621742457, 55.7157475814876 ],
     "type" : "Point"
   },
-  "global_id" : 1047340329
+  "globalId" : 1047340329
 }, {
-  "Address" : "Измайловское шоссе, дом 73Б, строение 1",
+  "address" : "Измайловское шоссе, дом 73Б, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -5279,16 +5279,16 @@
   "HelpPhone" : "(499) 166-51-72",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №1",
-  "ObjectName" : "Стадион (менее 1500 мест) «Вымпел»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Вымпел»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "8c2fad52-e240-4e91-b112-cdd81080986c"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "специальное покрытие",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "stadionv.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "stadionv.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -5315,9 +5315,9 @@
     "coordinates" : [ 37.75547909684385, 55.78950906649611 ],
     "type" : "Point"
   },
-  "global_id" : 1047340352
+  "globalId" : 1047340352
 }, {
-  "Address" : "проспект Будённого, дом 17А, строение 3",
+  "address" : "проспект Будённого, дом 17А, строение 3",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -5338,16 +5338,16 @@
   "HelpPhone" : "(499) 785-81-24",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное, «Стадион Крылья Советов»",
-  "ObjectName" : "Стадион (1500 и более мест) «Крылья Советов»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Крылья Советов»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "60fced75-bd1c-4d96-8d02-229995ecbac8"
   } ],
   "Seats" : 2500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "ks-fitness.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "ks-fitness.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -5374,9 +5374,9 @@
     "coordinates" : [ 37.728375283715344, 55.774936616314776 ],
     "type" : "Point"
   },
-  "global_id" : 1047340390
+  "globalId" : 1047340390
 }, {
-  "Address" : "проспект Будённого, дом 17А, строение 3",
+  "address" : "проспект Будённого, дом 17А, строение 3",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 102.0,
@@ -5397,16 +5397,16 @@
   "HelpPhone" : "(499) 785-81-24",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Стадион (1500 и более мест) «Крылья Советов»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (1500 и более мест) «Крылья Советов»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "3f99dbdd-d919-4731-9ac6-ae0bf73945e2"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "15.04-15.11",
-  "WebSite" : "ks-fitness.ru",
+  "usagePeriodSummer" : "15.04-15.11",
+  "webSite" : "ks-fitness.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -5433,9 +5433,9 @@
     "coordinates" : [ 37.72972979926783, 55.77589305404623 ],
     "type" : "Point"
   },
-  "global_id" : 1047340393
+  "globalId" : 1047340393
 }, {
-  "Address" : "улица Лужники, дом 24, строение 11",
+  "address" : "улица Лужники, дом 24, строение 11",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 109.0,
@@ -5456,17 +5456,17 @@
   "HelpPhone" : "(495) 780-08-08",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "футбольное поле",
-  "ObjectName" : "Спортивный городок «Лужники»",
-  "Paid" : "платно",
-  "PaidComments" : "Стоимость аренды: от 15500 до 25000 руб./час",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный городок «Лужники»",
+  "paid" : "платно",
+  "paidComments" : "Стоимость аренды: от 15500 до 25000 руб./час",
+  "photoSummer" : [ {
     "Photo" : "76826a04-270b-4ef1-af41-b154d5c1cf3c"
   } ],
   "Seats" : 2640,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "luzhniki.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "luzhniki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -5493,9 +5493,9 @@
     "coordinates" : [ 37.54675624643449, 55.72463576568707 ],
     "type" : "Point"
   },
-  "global_id" : 1047340546
+  "globalId" : 1047340546
 }, {
-  "Address" : "Измайловское шоссе, дом 73Б, строение 1",
+  "address" : "Измайловское шоссе, дом 73Б, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -5516,16 +5516,16 @@
   "HelpPhone" : "(499) 166-51-72",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №2",
-  "ObjectName" : "Стадион (менее 1500 мест) «Вымпел»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Вымпел»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "37a241e2-a8c4-43d6-82a8-300b312d6fa7"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "грунтовое покрытие",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "stadionv.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "stadionv.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -5552,9 +5552,9 @@
     "coordinates" : [ 37.75677192158913, 55.78897710504489 ],
     "type" : "Point"
   },
-  "global_id" : 1047341914
+  "globalId" : 1047341914
 }, {
-  "Address" : "Лиственничная аллея, дом 12",
+  "address" : "Лиственничная аллея, дом 12",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 105.0,
@@ -5563,7 +5563,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Тимирязевский район",
-  "Email" : "info@timacad.ru",
+  "email" : "info@timacad.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -5576,16 +5576,16 @@
   "HelpPhone" : "(495) 976-20-53",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс высшего учебного заведения «Московской сельскохозяйственной академии им. К.А. Тимирязева»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс высшего учебного заведения «Московской сельскохозяйственной академии им. К.А. Тимирязева»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "2b6991f1-3700-40c7-8ccb-c12ef85a45b7"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "timacad.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "timacad.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -5612,9 +5612,9 @@
     "coordinates" : [ 37.56252280137391, 55.83449174360979 ],
     "type" : "Point"
   },
-  "global_id" : 1047343068
+  "globalId" : 1047343068
 }, {
-  "Address" : "улица Шкулёва, дом 2, строение 1",
+  "address" : "улица Шкулёва, дом 2, строение 1",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 96.0,
@@ -5622,7 +5622,7 @@
     "Width" : 60.0
   } ],
   "District" : "район Текстильщики",
-  "Email" : "dpgaidar@edu.mos.ru",
+  "email" : "dpgaidar@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -5635,16 +5635,16 @@
   "HelpPhone" : "(499) 179-65-11",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "489f2444-64a0-4092-b7d4-5a333b88f526"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "dpgaidar.mskobr.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "dpgaidar.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "15:00-20:00"
@@ -5671,9 +5671,9 @@
     "coordinates" : [ 37.74194194938998, 55.69166000974901 ],
     "type" : "Point"
   },
-  "global_id" : 1047346399
+  "globalId" : 1047346399
 }, {
-  "Address" : "Ленинградский проспект, дом 36",
+  "address" : "Ленинградский проспект, дом 36",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -5682,7 +5682,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Аэропорт",
-  "Email" : "pr@vtb-arena.com",
+  "email" : "pr@vtb-arena.com",
   "HasCashMachine" : "да",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -5695,16 +5695,16 @@
   "HelpPhone" : "(495) 122-42-22",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион «ВТБ Арена парк»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион «ВТБ Арена парк»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "b105e90d-47c1-4604-bbb1-381bcfbd59d8"
   } ],
   "Seats" : 26049,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "vtb-arena.com",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "vtb-arena.com",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-23:00"
@@ -5731,9 +5731,9 @@
     "coordinates" : [ 37.55973974536894, 55.7912131560745 ],
     "type" : "Point"
   },
-  "global_id" : 1047346583
+  "globalId" : 1047346583
 }, {
-  "Address" : "Можайское шоссе, дом 7, строение 1",
+  "address" : "Можайское шоссе, дом 7, строение 1",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -5742,7 +5742,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Можайский район",
-  "Email" : "info@sfok-kuntsevo.ru",
+  "email" : "info@sfok-kuntsevo.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -5755,16 +5755,16 @@
   "HelpPhone" : "(495) 651-99-86",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Некоммерческое партнерство «Кунцево»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Некоммерческое партнерство «Кунцево»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "9beb594e-a09e-447d-979e-86c8bcd14fe5"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "www.sfok-kuntsevo.ru/",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "www.sfok-kuntsevo.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-22:00"
@@ -5791,9 +5791,9 @@
     "coordinates" : [ 37.43964929731894, 55.72053745299935 ],
     "type" : "Point"
   },
-  "global_id" : 1047346624
+  "globalId" : 1047346624
 }, {
-  "Address" : "улица Плющиха, дом 57",
+  "address" : "улица Плющиха, дом 57",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -5802,7 +5802,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Хамовники",
-  "Email" : "bass.msok@yandex.ru",
+  "email" : "bass.msok@yandex.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -5815,16 +5815,16 @@
   "HelpPhone" : "(499) 248-41-34",
   "Lighting" : "освещение лампами накаливания",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Стадион (менее 1500 мест) «Буревестник»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Стадион (менее 1500 мест) «Буревестник»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "66a1fef5-2386-488c-a92d-826445b52f5c"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "www.sechenov.ru/univers/structure/other/stadion-burevestnik/",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "www.sechenov.ru/univers/structure/other/stadion-burevestnik/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -5851,9 +5851,9 @@
     "coordinates" : [ 37.57585648478954, 55.735697606508246 ],
     "type" : "Point"
   },
-  "global_id" : 1047348031
+  "globalId" : 1047348031
 }, {
-  "Address" : "рабочий посёлок Киевский, дом 7",
+  "address" : "рабочий посёлок Киевский, дом 7",
   "AdmArea" : "Троицкий административный округ",
   "DimensionsSummer" : [ {
     "Length" : 106.0,
@@ -5861,7 +5861,7 @@
     "Width" : 55.0
   } ],
   "District" : "поселение Киевский",
-  "Email" : "1391@edu.mos.ru",
+  "email" : "1391@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -5874,16 +5874,16 @@
   "HelpPhone" : "(495) 846-31-54",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "0babe434-e744-4cd7-8847-62ad9ef71153"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "schtn1391.mskobr.ru",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "schtn1391.mskobr.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "15:00-21:00"
@@ -5910,9 +5910,9 @@
     "coordinates" : [ 36.87420104109604, 55.42962047702034 ],
     "type" : "Point"
   },
-  "global_id" : 1047348051
+  "globalId" : 1047348051
 }, {
-  "Address" : "Новомарьинская улица, дом 10, корпус 1",
+  "address" : "Новомарьинская улица, дом 10, корпус 1",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -5921,7 +5921,7 @@
   } ],
   "DisabilityFriendly" : "приспособлен для всех групп инвалидов",
   "District" : "район Марьино",
-  "Email" : "park850@mail.ru",
+  "email" : "park850@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -5934,16 +5934,16 @@
   "HelpPhone" : "(495) 657-45-12",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Братиславский парк",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Братиславский парк",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "aa5d777c-73ab-43d0-90bc-9d913549282b"
   } ],
   "Seats" : 480,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "parkivmaryino.ru",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "parkivmaryino.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "10:00-23:00"
@@ -5970,9 +5970,9 @@
     "coordinates" : [ 37.75233331815583, 55.65321156486891 ],
     "type" : "Point"
   },
-  "global_id" : 1047348161
+  "globalId" : 1047348161
 }, {
-  "Address" : "Кронштадтский бульвар, дом 20",
+  "address" : "Кронштадтский бульвар, дом 20",
   "AdmArea" : "Северный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -5981,7 +5981,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Головинский район",
-  "Email" : "press@mstuca.aero",
+  "email" : "press@mstuca.aero",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -5994,16 +5994,16 @@
   "HelpPhone" : "(495) 459-07-07",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс высшего учебного заведения «Московский государственный университет гражданской авиации»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс высшего учебного заведения «Московский государственный университет гражданской авиации»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "3ee48b49-2f45-4b87-801a-f7accb79e9cf"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.05-30.09",
-  "WebSite" : "www.mstuca.ru/",
+  "usagePeriodSummer" : "01.05-30.09",
+  "webSite" : "www.mstuca.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "09:00-18:00"
@@ -6030,9 +6030,9 @@
     "coordinates" : [ 37.5091974041205, 55.84173719363735 ],
     "type" : "Point"
   },
-  "global_id" : 1047348162
+  "globalId" : 1047348162
 }, {
-  "Address" : "город Зеленоград, корпус 901",
+  "address" : "город Зеленоград, корпус 901",
   "AdmArea" : "Зеленоградский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 120.0,
@@ -6041,7 +6041,7 @@
   } ],
   "DisabilityFriendly" : "частично приспособлен",
   "District" : "район Старое Крюково",
-  "Email" : "skmiet@mail.ru",
+  "email" : "skmiet@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "нет",
   "HasEatery" : "нет",
@@ -6054,16 +6054,16 @@
   "HelpPhone" : "(499) 720-85-51",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс высшего учебного заведения «Московский институт электронной техники»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс высшего учебного заведения «Московский институт электронной техники»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "e16f9bea-db53-412d-8dcd-c225fa73cd5e"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "miet.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "miet.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -6090,9 +6090,9 @@
     "coordinates" : [ 37.209064948622995, 55.985711360171294 ],
     "type" : "Point"
   },
-  "global_id" : 1047348284
+  "globalId" : 1047348284
 }, {
-  "Address" : "город Московский, улица Бианки, дом 6, корпус 3",
+  "address" : "город Московский, улица Бианки, дом 6, корпус 3",
   "AdmArea" : "Новомосковский административный округ",
   "DimensionsSummer" : [ {
     "Length" : 92.7,
@@ -6100,7 +6100,7 @@
     "Width" : 62.4
   } ],
   "District" : "поселение Московский",
-  "Email" : "2120@edu.mos.ru",
+  "email" : "2120@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -6113,16 +6113,16 @@
   "HelpPhone" : "(495) 123-33-46",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "31c0deac-2c8f-4898-9da7-f710709b5573"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-31.10",
-  "WebSite" : "sch2120tn.mskobr.ru/",
+  "usagePeriodSummer" : "01.04-31.10",
+  "webSite" : "sch2120tn.mskobr.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "07:30-21:00"
@@ -6149,9 +6149,9 @@
     "coordinates" : [ 37.36380120048009, 55.60427132254034 ],
     "type" : "Point"
   },
-  "global_id" : 1047348493
+  "globalId" : 1047348493
 }, {
-  "Address" : "Кременчугская улица, дом 11, строение 5",
+  "address" : "Кременчугская улица, дом 11, строение 5",
   "AdmArea" : "Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -6159,7 +6159,7 @@
     "Width" : 45.0
   } ],
   "District" : "район Фили-Давыдково",
-  "Email" : "si-intrl@edu.mos.ru",
+  "email" : "si-intrl@edu.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -6172,16 +6172,16 @@
   "HelpPhone" : "(499) 445-52-10",
   "Lighting" : "без дополнительного освещения",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс образовательного учреждения",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс образовательного учреждения",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "b7d72de4-55fb-4dc2-8afc-6129ea9b4544"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "int.mskobr.ru/info_edu/basics/",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "int.mskobr.ru/info_edu/basics/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -6208,9 +6208,9 @@
     "coordinates" : [ 37.463690018370954, 55.717706124145195 ],
     "type" : "Point"
   },
-  "global_id" : 1047349253
+  "globalId" : 1047349253
 }, {
-  "Address" : "улица Миклухо-Маклая, дом 4",
+  "address" : "улица Миклухо-Маклая, дом 4",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -6219,7 +6219,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Обручевский район",
-  "Email" : "information@rudn.ru",
+  "email" : "information@rudn.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -6232,16 +6232,16 @@
   "HelpPhone" : "(495) 434-71-82",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Физкультурно-оздоровительный комплекс «Дружба»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Физкультурно-оздоровительный комплекс «Дружба»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "63ecb4f9-8c3f-40ea-9a47-20dd00b96dba"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.01-31.12",
-  "WebSite" : "www.rudn.ru/",
+  "usagePeriodSummer" : "01.01-31.12",
+  "webSite" : "www.rudn.ru/",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -6268,9 +6268,9 @@
     "coordinates" : [ 37.5012359153265, 55.65091423232166 ],
     "type" : "Point"
   },
-  "global_id" : 1047349505
+  "globalId" : 1047349505
 }, {
-  "Address" : "улица Каховка, дом 2, строение 3",
+  "address" : "улица Каховка, дом 2, строение 3",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -6279,7 +6279,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Зюзино",
-  "Email" : "cssv-kromashki@social.mos.ru",
+  "email" : "cssv-kromashki@social.mos.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -6292,16 +6292,16 @@
   "HelpPhone" : "(495) 318-16-46",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Комплекс спортивных сооружений «Центр содействия семейному воспитанию «Каховские Ромашки»",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Комплекс спортивных сооружений «Центр содействия семейному воспитанию «Каховские Ромашки»",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "dde0c824-4c3f-41d7-9c09-b16570e9ece9"
   } ],
   "Seats" : 50,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.11",
-  "WebSite" : "www.kahovskieromashki.ru",
+  "usagePeriodSummer" : "01.04-30.11",
+  "webSite" : "www.kahovskieromashki.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-21:00"
@@ -6328,9 +6328,9 @@
     "coordinates" : [ 37.58927164886193, 55.65325024224018 ],
     "type" : "Point"
   },
-  "global_id" : 1047349846
+  "globalId" : 1047349846
 }, {
-  "Address" : "Профсоюзная улица, дом 42, корпус 3",
+  "address" : "Профсоюзная улица, дом 42, корпус 3",
   "AdmArea" : "Юго-Западный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -6339,7 +6339,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "район Черёмушки",
-  "Email" : "myn_cherem@mail.ru",
+  "email" : "myn_cherem@mail.ru",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "нет",
@@ -6352,16 +6352,16 @@
   "HelpPhone" : "(495) 332-13-11",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Дворовая территория",
-  "Paid" : "бесплатно",
-  "PhotoSummer" : [ {
+  "objectName" : "Дворовая территория",
+  "paid" : "бесплатно",
+  "photoSummer" : [ {
     "Photo" : "aebac516-5401-45d2-90d0-49e2124300c8"
   } ],
   "Seats" : 100,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "mcherem.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "mcherem.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -6388,9 +6388,9 @@
     "coordinates" : [ 37.55535782638927, 55.676329134121765 ],
     "type" : "Point"
   },
-  "global_id" : 1047350000
+  "globalId" : 1047350000
 }, {
-  "Address" : "Большая Черкизовская улица, владение 125, строение 1",
+  "address" : "Большая Черкизовская улица, владение 125, строение 1",
   "AdmArea" : "Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 108.0,
@@ -6410,16 +6410,16 @@
   "HelpPhone" : "(499) 161-01-74",
   "Lighting" : "смешанное освещение",
   "NameSummer" : "поле футбольное №4, «Сапсан арена»",
-  "ObjectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивная арена «РЖД-Арена (стадион Локомотив)»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "3a104b3b-7dfa-4bb1-95f1-535ffb36fa20"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "school.fclm.ru/media/photo",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "school.fclm.ru/media/photo",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-22:00"
@@ -6446,9 +6446,9 @@
     "coordinates" : [ 37.73777145915717, 55.806542422290946 ],
     "type" : "Point"
   },
-  "global_id" : 1047356087
+  "globalId" : 1047356087
 }, {
-  "Address" : "Таганская улица, дом 40-42, строение 6",
+  "address" : "Таганская улица, дом 40-42, строение 6",
   "AdmArea" : "Центральный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 90.0,
@@ -6457,7 +6457,7 @@
   } ],
   "DisabilityFriendly" : "не приспособлен",
   "District" : "Таганский район",
-  "Email" : "fok@parktaganskiy.com",
+  "email" : "fok@parktaganskiy.com",
   "HasCashMachine" : "нет",
   "HasDressingRoom" : "да",
   "HasEatery" : "да",
@@ -6470,17 +6470,17 @@
   "HelpPhone" : "(495) 632-64-20",
   "Lighting" : "освещение газоразрядными лампами",
   "NameSummer" : "поле футбольное, «Стадион»",
-  "ObjectName" : "Парк, озелененная городская территория «Парк культуры и отдыха «Таганский»",
-  "Paid" : "платно",
-  "PaidComments" : "бесплатное посещение в незарезервированное время",
-  "PhotoSummer" : [ {
+  "objectName" : "Парк, озелененная городская территория «Парк культуры и отдыха «Таганский»",
+  "paid" : "платно",
+  "paidComments" : "бесплатное посещение в незарезервированное время",
+  "photoSummer" : [ {
     "Photo" : "9460b245-4fbd-450c-b306-49be7830e813"
   } ],
   "Seats" : 500,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (искусственное)",
-  "UsagePeriodSummer" : "01.04-30.10",
-  "WebSite" : "parktaganskiy.ru",
+  "usagePeriodSummer" : "01.04-30.10",
+  "webSite" : "parktaganskiy.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "05:00-23:00"
@@ -6507,9 +6507,9 @@
     "coordinates" : [ 37.66697651756365, 55.73757621015643 ],
     "type" : "Point"
   },
-  "global_id" : 1047360476
+  "globalId" : 1047360476
 }, {
-  "Address" : "улица Головачёва, дом 2",
+  "address" : "улица Головачёва, дом 2",
   "AdmArea" : "Юго-Восточный административный округ",
   "DimensionsSummer" : [ {
     "Length" : 100.0,
@@ -6530,16 +6530,16 @@
   "HelpPhone" : "(499) 172-90-06",
   "Lighting" : "освещение светодиодными лампами",
   "NameSummer" : "поле футбольное",
-  "ObjectName" : "Спортивный комплекс высшего учебного заведения «Московское высшее общевойсковое командное училище или МВОКУ»",
-  "Paid" : "платно",
-  "PhotoSummer" : [ {
+  "objectName" : "Спортивный комплекс высшего учебного заведения «Московское высшее общевойсковое командное училище или МВОКУ»",
+  "paid" : "платно",
+  "photoSummer" : [ {
     "Photo" : "38200dd7-169e-4355-a902-63f65a1d6fa5"
   } ],
   "Seats" : 0,
   "ServicesSummer" : [ "общая физическая подготовка" ],
   "SurfaceTypeSummer" : "газонное покрытие (натуральное)",
-  "UsagePeriodSummer" : "01.09-31.08",
-  "WebSite" : "mvoku.mil.ru",
+  "usagePeriodSummer" : "01.09-31.08",
+  "webSite" : "mvoku.mil.ru",
   "WorkingHoursSummer" : [ {
     "DayOfWeek" : "понедельник",
     "Hours" : "08:00-20:00"
@@ -6566,5 +6566,5 @@
     "coordinates" : [ 37.81536641799057, 55.67730012104806 ],
     "type" : "Point"
   },
-  "global_id" : 1047421933
+  "globalId" : 1047421933
 } ]
