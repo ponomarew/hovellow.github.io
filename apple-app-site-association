@@ -1,0 +1,11 @@
+{
+	"applinks": {
+		"app": [],
+		"details": [
+		{
+			"appID": "FKAK3GFPT6.mystable.aiapp",
+			"paths": ["/users/*"]
+		}
+		]
+	}
+}
